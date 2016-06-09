@@ -1,0 +1,13 @@
+﻿Build started 17/11/2014 14:55:12.
+     1>Project "E:\OpenGL Test\OpenGL Rasteriser\SOIL\SLN\SOIL.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\OpenGL Test\OpenGL Rasteriser\SOIL\SLN\..\Release\SOIL.lib" /NOLOGO /LTCG Release\image_DXT.obj
+         Release\image_helper.obj
+         Release\SOIL.obj
+         Release\stb_image_aug.obj
+         SOIL.vcxproj -> E:\OpenGL Test\OpenGL Rasteriser\SOIL\SLN\..\Release\SOIL.lib
+     1>Done Building Project "E:\OpenGL Test\OpenGL Rasteriser\SOIL\SLN\SOIL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
